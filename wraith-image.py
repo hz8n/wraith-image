@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Phantom Image Guard — wraith-image v1.3.8
-# Design by al3rab | Legendary Cyber 70 | FOR AUTHORIZED LAB USE ONLY | Full English
+# Design by al3rab | Legendary Cyber 70 | v1.1 Update | FOR AUTHORIZED LAB USE ONLY | Full English
 # Terminal Advanced Edition - stdlib only
 import argparse, json, socket, platform, datetime, sys, os
 from pathlib import Path
